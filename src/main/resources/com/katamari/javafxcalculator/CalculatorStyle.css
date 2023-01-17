@@ -1,0 +1,8 @@
+.root {
+    -fx-background-color: #32353b;
+}
+
+.highlight {
+    -fx-background-color: #000080;
+    -fx-background-radius: 8;
+}
